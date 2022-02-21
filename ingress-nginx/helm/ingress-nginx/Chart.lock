@@ -1,0 +1,9 @@
+dependencies:
+- name: ingress-nginx
+  repository: cm://app.plural.sh/cm/ingress-nginx
+  version: 0.1.8
+- name: ingress-nginx-private
+  repository: cm://app.plural.sh/cm/ingress-nginx
+  version: 0.1.11
+digest: sha256:f436dc84e5bc6587d61c9d6ccd9a14773a4c1f10aa4dd7769aeab80bcf1a0442
+generated: "2022-02-22T01:13:23.18897+08:00"
